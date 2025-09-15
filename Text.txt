@@ -2,3 +2,5 @@ Created a text file. :)
 
 
 chicken :3
+
+What came first? The chicken or the egg?
